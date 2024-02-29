@@ -1,0 +1,103 @@
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\ApplicationInsights.config
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\csc.exe
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\vbc.exe
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Site de Cinema.dll.config
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Site de Cinema.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Site de Cinema.pdb
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.Web.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.ApplicationInsights.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.Web.xml
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.ApplicationInsights.xml
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\obj\Debug\Site de Cinema.csproj.AssemblyReference.cache
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\obj\Debug\Site de Cinema.csproj.CoreCompileInputs.cache
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\obj\Debug\Site de Cinema.csproj.CopyComplete
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\obj\Debug\Site de Cinema.dll
+C:\Users\i180054\Desktop\Site de Cinema\Site de Cinema\obj\Debug\Site de Cinema.pdb
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\ApplicationInsights.config
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\csc.exe
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\vbc.exe
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Site de Cinema.dll.config
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Site de Cinema.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Site de Cinema.pdb
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.Web.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.ApplicationInsights.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.Web.xml
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.ApplicationInsights.xml
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.dll
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.pdb
+C:\Users\i180054\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.pdb
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Site de Cinema.dll.config
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Site de Cinema.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Site de Cinema.pdb
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Site de Cinema antigo\Site de Cinema\obj\Debug\Site de Cinema.csproj.CopyComplete
